@@ -1,7 +1,8 @@
 import java.awt.event.*; 
 import javax.swing.*; 
 import java.awt.*; 
-public class Calculator extends JFrame implements ActionListener { 
+public class Calculator extends JFrame implements ActionListener 
+{ 
     JTextField l; 
     String s0, s1, s2;
      JButton b0, b1, b2, b3, b4, b5, b6, b7, b8, b9, ba, bs, bd, bm, be, beq, beq1; 
